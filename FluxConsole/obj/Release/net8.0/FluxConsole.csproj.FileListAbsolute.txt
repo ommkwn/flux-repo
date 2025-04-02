@@ -1,0 +1,14 @@
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/bin/Release/net8.0/FluxConsole
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/bin/Release/net8.0/FluxConsole.deps.json
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/bin/Release/net8.0/FluxConsole.runtimeconfig.json
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/bin/Release/net8.0/FluxConsole.dll
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/bin/Release/net8.0/FluxConsole.pdb
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/obj/Release/net8.0/FluxConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/obj/Release/net8.0/FluxConsole.AssemblyInfoInputs.cache
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/obj/Release/net8.0/FluxConsole.AssemblyInfo.cs
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/obj/Release/net8.0/FluxConsole.csproj.CoreCompileInputs.cache
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/obj/Release/net8.0/FluxConsole.dll
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/obj/Release/net8.0/refint/FluxConsole.dll
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/obj/Release/net8.0/FluxConsole.pdb
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/obj/Release/net8.0/FluxConsole.genruntimeconfig.cache
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/obj/Release/net8.0/ref/FluxConsole.dll

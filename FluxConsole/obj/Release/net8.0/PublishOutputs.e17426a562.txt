@@ -1,0 +1,5 @@
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/bin/Release/net8.0/publish/FluxConsole
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/bin/Release/net8.0/publish/FluxConsole.dll
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/bin/Release/net8.0/publish/FluxConsole.deps.json
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/bin/Release/net8.0/publish/FluxConsole.runtimeconfig.json
+/home/dev_2/Backup/FluxConsoleApp/FluxConsole/bin/Release/net8.0/publish/FluxConsole.pdb
