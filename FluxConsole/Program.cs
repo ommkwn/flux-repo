@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Flux!");
+﻿Console.WriteLine("Hello, Flux!");
+await Task.Delay(-1); // Keeps the application running indefinitely
