@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FluxConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cc36740e0eba68afa29311e2fcd64eafd17ab85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81da1f8f5f1fba075a1b66a39a46dbfc844f1544")]
 [assembly: System.Reflection.AssemblyProductAttribute("FluxConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FluxConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
